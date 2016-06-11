@@ -12,6 +12,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class Main extends JavaPlugin {
 	
 	public void onEnable() {
+		System.out.println("Gaby eet graag plopkoeken");
 		
 	}
 	
@@ -41,5 +42,6 @@ public class Main extends JavaPlugin {
 		p.getInventory().addItem(i);
 		
 	}
+	
 	
 }
