@@ -15,6 +15,7 @@ public class Main extends JavaPlugin {
 	}
 	
 	public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
-		return false;
-	}
+	 Player p= (Player) sender;
+	 }return false;
+		
 }
