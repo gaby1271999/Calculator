@@ -26,6 +26,8 @@ public class Main extends JavaPlugin {
 			
 			if (label.equalsIgnoreCase("plopkoek")){
 				plopkoek(p);
+				p.sendMessage("§3§lgast je hebt een plopkoek");
+				return true;
 			}
 				
 				
