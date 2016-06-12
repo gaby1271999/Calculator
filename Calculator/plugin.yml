@@ -1,0 +1,7 @@
+main: me.trolking1.Calculator.Main
+name: calculator
+version: 1.0
+description: plugin that can calculate somthing.
+commands:
+  plopkoek:
+    description: give a player a plopkoek
